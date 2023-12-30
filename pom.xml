@@ -79,6 +79,7 @@
 			<version>5.1.1</version>
 		</dependency>
 
+		<!--This block added to run this framework on jenkins directly taking the code from GITHUB-->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
